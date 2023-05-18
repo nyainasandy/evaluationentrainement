@@ -1,0 +1,20 @@
+.pink-color {
+    background-color: #fcd2d2;
+}
+
+.lettrine {
+    font-size: 3rem; 
+    font-weight: bold;
+    float: left; 
+    margin-right: 0.5rem;
+    line-height: 1;
+}
+ 
+p {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+h2.second-color {
+    color: #888823;
+}
