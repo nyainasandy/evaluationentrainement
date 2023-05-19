@@ -18,3 +18,11 @@ p {
 h2.second-color {
     color: #888823;
 }
+
+.blue-color { 
+    background-color: #215c9f;
+}
+
+.grey-color {
+    background-color: hsla(0,0%,96%,.8);
+}
